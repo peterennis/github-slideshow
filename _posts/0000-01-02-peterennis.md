@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Wozzy wazza wombat
 Use the left arrow to go back!
